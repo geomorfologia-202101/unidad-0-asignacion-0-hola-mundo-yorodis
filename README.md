@@ -20,6 +20,6 @@ En caso contrario, haz lo siguiente: ve a tu correo (revisa tu spam), localiza u
 
 3. En modo edición, escribe tus nombres y apellidos, sustituyendo los puntos suspensivos que verás a continuación por tu respuesta:
 
-  * Tu respuesta aquí: ...
+  * Tu respuesta aquí: Yorodis Missael Ramírez González
   
 4. Al finalizar, ve al fondo y presiona `Commit changes`.
